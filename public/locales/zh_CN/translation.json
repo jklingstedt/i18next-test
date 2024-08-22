@@ -1,0 +1,29 @@
+{
+    "car_color": "{{color}}汽车",
+    "counter": {
+        "other": "已更改语言{{count}}次"
+    },
+    "counter_one": "仅更改过一次语言",
+    "counter_other": "已更改语言{{count}}次",
+    "description": {
+        "part1": "< 1 > src\/App.js < \/1 >保存后重新加载。",
+        "part2": "学习 React"
+    },
+    "figma_artboard": {
+        "another_figma_string": "另一个 <1>Figma<\/1> 字符串",
+        "start_here": "从这里开始"
+    },
+    "footer": {
+        "date": "今天是 {{date, DATE_HUGE}}",
+        "date_afternoon": "下午好！现在是 {{date, DATE_HUGE}}",
+        "date_evening": "晚上好！今天是 {{date, DATE_HUGE}}",
+        "date_morning": "早上好！今天是 {{date, DATE_HUGE}} | 祝您有美好的一天！"
+    },
+    "mobile_layout": {
+        "long_string": "This is a test of long figma text.",
+        "placeholder": "占位符：{{placeholder}}",
+        "submit": "提交"
+    },
+    "new_translation": "新译本",
+    "random_number": "这是一个随机数：{{random_number}}"
+}

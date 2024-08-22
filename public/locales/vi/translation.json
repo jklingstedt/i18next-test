@@ -1,0 +1,29 @@
+{
+    "car_color": "{{color}}",
+    "counter": {
+        "other": "Đã thay đổi ngôn ngữ {{count}} lần"
+    },
+    "counter_one": "Chỉ thay đổi ngôn ngữ một lần",
+    "counter_other": "Đã thay đổi ngôn ngữ {{count}} lần",
+    "description": {
+        "part1": "Chỉnh sửa < 1 > src\/App.js < \/ 1 > và lưu để tải lại.",
+        "part2": "Học React"
+    },
+    "figma_artboard": {
+        "another_figma_string": "Một chuỗi <1>Figma<\/1> khác",
+        "start_here": "Bắt đầu ở đây"
+    },
+    "footer": {
+        "date": "Hôm nay là {{date, DATE_HUGE}}",
+        "date_afternoon": "Chào buổi chiều! Hôm nay là {{date, DATE_HUGE}}",
+        "date_evening": "Chào buổi tối! Hôm nay là {{date, DATE_HUGE}}",
+        "date_morning": "Chào buổi sáng! Hôm nay là {{date, DATE_HUGE}} | Chúc bạn một ngày tốt lành!"
+    },
+    "mobile_layout": {
+        "long_string": "This is a test of long figma text.",
+        "placeholder": "Phần giữ chỗ: {{placeholder}}",
+        "submit": "Nộp"
+    },
+    "new_translation": "Bản dịch mới",
+    "random_number": "Đây là một số ngẫu nhiên: {{random_number}}"
+}

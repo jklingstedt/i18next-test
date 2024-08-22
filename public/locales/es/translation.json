@@ -1,0 +1,30 @@
+{
+    "car_color": "{{color}} coche",
+    "counter": {
+        "one": "Cambié el idioma solo una vez",
+        "other": "Ya se ha cambiado el idioma {{count}} veces"
+    },
+    "counter_one": "Cambié el idioma solo una vez",
+    "counter_other": "Ya se ha cambiado el idioma {{count}} veces",
+    "description": {
+        "part1": "Edite < 1 > src\/App.js < \/1 > y guarde para recargar.",
+        "part2": "Aprende React"
+    },
+    "figma_artboard": {
+        "another_figma_string": "Otra cadena <1>Figma<\/1>",
+        "start_here": "Empieza aquí"
+    },
+    "footer": {
+        "date": "Hoy es {{date, DATE_HUGE}}",
+        "date_afternoon": "Buenas tardes, es el día {{date, DATE_HUGE}}",
+        "date_evening": "¡Buenas noches! Hoy fue el {{date, DATE_HUGE}}",
+        "date_morning": "¡Buenos días! Hoy es {{date, DATE_HUGE}} | ¡Que tengas un buen día!"
+    },
+    "mobile_layout": {
+        "long_string": "This is a test of long figma text.",
+        "placeholder": "Marcador de posición: {{placeholder}}",
+        "submit": "Entregar"
+    },
+    "new_translation": "Nueva traducción",
+    "random_number": "Este es un número aleatorio: {{random_number}}"
+}

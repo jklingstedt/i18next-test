@@ -1,0 +1,29 @@
+{
+    "car_color": "รถ {{color}}",
+    "counter": {
+        "other": "เปลี่ยนภาษาไปแล้ว {{count}} ครั้ง"
+    },
+    "counter_one": "เปลี่ยนภาษาแค่ครั้งเดียว",
+    "counter_other": "เปลี่ยนภาษาไปแล้ว {{count}} ครั้ง",
+    "description": {
+        "part1": "แก้ไข < 1 > src\/App.js < \/1 > และบันทึกเพื่อโหลดซ้ำ",
+        "part2": "เรียนรู้ React"
+    },
+    "figma_artboard": {
+        "another_figma_string": "สตริง <1>Figma<\/1> อีกอัน",
+        "start_here": "เริ่มที่นี่"
+    },
+    "footer": {
+        "date": "วันนี้คือวันที่ {{date, DATE_HUGE}}",
+        "date_afternoon": "สวัสดีตอนบ่าย! วันที่ {{date, DATE_HUGE}}",
+        "date_evening": "สวัสดีตอนเย็น วันนี้เป็นวันที่ {{date, DATE_HUGE}}",
+        "date_morning": "สวัสดีตอนเช้า! วันนี้คือวันที่ {{date, DATE_HUGE}} | ขอให้เป็นวันที่ดีนะ!"
+    },
+    "mobile_layout": {
+        "long_string": "This is a test of long figma text.",
+        "placeholder": "ตัวยึดตำแหน่ง: {{placeholder}}",
+        "submit": "ส่ง"
+    },
+    "new_translation": "การแปลใหม่",
+    "random_number": "นี่คือตัวเลขสุ่ม: {{random_number}}"
+}

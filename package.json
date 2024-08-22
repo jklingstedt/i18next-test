@@ -7,12 +7,14 @@
         "start": "vite",
         "build": "tsc && vite build",
         "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-        "preview": "vite preview"
+        "preview": "vite preview",
+        "dt": "sh scripts/download-translations.sh",
+        "ut": "sh scripts/upload-translations.sh"
     },
     "dependencies": {
         "i18next": "^23.11.5",
         "i18next-browser-languagedetector": "^8.0.0",
-        "i18next-http-backend": "^2.5.2",
+        "i18next-http-backend": "^2.6.0",
         "luxon": "^3.4.4",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
