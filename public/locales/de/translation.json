@@ -7,11 +7,11 @@
     "counter_one": "Sprache nur einmal geändert",
     "counter_other": "Sprache bereits {{count}} Mal geändert",
     "description": {
-        "part1": "Bearbeiten Sie < 1 > src\/App.js < \/1 > und speichern Sie, um neu zu laden.",
+        "part1": "Bearbeiten Sie < 1 > src/App.js < /1 > und speichern Sie, um neu zu laden.",
         "part2": "Erfahren Sie mehr über React"
     },
     "figma_artboard": {
-        "another_figma_string": "Ein weiterer <1>Figma<\/1>-String",
+        "another_figma_string": "Ein weiterer <1>Figma</1>-String",
         "start_here": "Beginnen Sie hier"
     },
     "footer": {
@@ -22,7 +22,7 @@
     },
     "mobile_layout": {
         "long_string": "This is a test of long figma text.",
-        "placeholder": "Platzhalter: {{placeholder}}",
+        "placeholder": "Placeholder: {{placeholder}}",
         "submit": "Einreichen"
     },
     "new_translation": "Neue Übersetzung",
